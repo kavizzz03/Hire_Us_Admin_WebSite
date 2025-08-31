@@ -283,10 +283,10 @@ footer a:hover {
       <a href="Web_Site/Ratings/ratings.php"  class="nav-link" role="menuitem" tabindex="0"><i class="bi bi-star"></i> Review & Ratings</a>
     </li>
     <li class="nav-item" role="none">
-      <a href="#" class="nav-link" role="menuitem" tabindex="0"><i class="bi bi-briefcase"></i> Job Management</a>
+      <a href="Web_Site/Jobs/job_dashboard.php" class="nav-link" role="menuitem" tabindex="0"><i class="bi bi-briefcase"></i> Job Management</a>
     </li>
     <li class="nav-item" role="none">
-      <a href="Web_Site/Meals/index.php" class="nav-link" role="menuitem" tabindex="0"><i class="bi bi-basket"></i> Food Management</a>
+      <a href="Web_Site/Meals/meals.php" class="nav-link" role="menuitem" tabindex="0"><i class="bi bi-basket"></i> Food Management</a>
     </li>
     <li class="nav-item" role="none">
       <a href="Web_Site/Vault/passbook.php" class="nav-link" role="menuitem" tabindex="0"><i class="bi bi-wallet2"></i> Withdraw Management</a>
@@ -351,12 +351,12 @@ footer a:hover {
     <div class="card" tabindex="0" role="button" aria-pressed="false" onclick="location.href='#'">
       <i class="bi bi-briefcase"></i>
       <h5>Job Management</h5>
-      <a href="#" class="btn btn-primary mt-auto" role="button" tabindex="-1">Go</a>
+      <a href="Web_Site/Jobs/job_dashboard.php" class="btn btn-primary mt-auto" role="button" tabindex="-1">Go</a>
     </div>
     <div class="card" tabindex="0" role="button" aria-pressed="false" onclick="location.href='#'">
       <i class="bi bi-basket"></i>
       <h5>Food Management</h5>
-      <a href="Web_Site/Meals/admin_jobs_meals.php" class="btn btn-primary mt-auto" role="button" tabindex="-1">Go</a>
+      <a href="Web_Site/Meals/meals.php" class="btn btn-primary mt-auto" role="button" tabindex="-1">Go</a>
     </div>
     <div class="card" tabindex="0" role="button" aria-pressed="false" onclick="location.href='#'">
       <i class="bi bi-wallet2"></i>
